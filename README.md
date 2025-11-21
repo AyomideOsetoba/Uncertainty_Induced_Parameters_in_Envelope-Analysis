@@ -1,0 +1,2 @@
+# Experimental_Aleatoric_and_Epistemic_Uncertainties_for_REB
+A python pipeline for quantifying aleatoric and epistemic uncertainty
