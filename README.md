@@ -2,9 +2,8 @@
 # SES / ES Bearing Fault Analysis Pipeline (Python)
 
 This repository provides a minimal, reproducible Python pipeline for
-envelope analysis of rolling element bearings, adapted from a Master's
-dissertation on the influence of epistemic and aleatoric experimental
-uncertainties in rolling element condition monitoring.
+envelope analysis of rolling element bearings, adapted from my Master's
+dissertation titled "A framework towards quantifying aleatoric and epistemic uncertainties in rolling element bearing condition monitoring experiments" 
 
 The pipeline allows you to:
 
